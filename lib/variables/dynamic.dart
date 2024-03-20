@@ -1,5 +1,6 @@
 void main() {
-  var name; // == dynamic name;
+  // 기본적으로는 안쓰는 것이 좋으며 정말 필요할때만 사용
+  dynamic name; // == Object name;
 
   // 변수의 타입이 dynamic이면 가능
   name = 'jiwon';
